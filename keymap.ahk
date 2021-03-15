@@ -78,9 +78,11 @@ Space & ,::[
 Space & .::]
 Space & /::\
 
-{::"
+Space::Space
 
 [::BackSpace
-'::Enter
 AppsKey::RControl
 RControl::AppsKey
+
+RShift::Enter
+>+*::>+*
