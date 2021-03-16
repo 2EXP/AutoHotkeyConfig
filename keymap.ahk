@@ -85,4 +85,3 @@ AppsKey::RControl
 RControl::AppsKey
 
 RShift::Enter
->+*::>+*
