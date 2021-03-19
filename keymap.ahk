@@ -57,7 +57,7 @@ Space & e::8
 Space & r::9
 Space & a::_
 Space & q::~
-Space & t::\
+Space & t::|
 Space & y::%
 Space & u::+
 Space & i::+sc01A
